@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Mahmoud Mossad Abdolaah</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; padding: 0; }
+        h1, h2, h3 { color: #003366; }
+        .section { margin-bottom: 20px; }
+        .section-title { border-bottom: 2px solid #003366; padding-bottom: 5px; margin-bottom: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Mahmoud Mossad Abdolaah</h1>
+    <p>Email: <a href="mailto:mossudmahmoud@gmail.com">mossudmahmoud@gmail.com</a></p>
+    <p>Phone: 01027083750</p>
+    <p>Location: 6 October City, Giza</p>
+
+    <div class="section">
+        <h2 class="section-title">Summary</h2>
+        <p>I am a mechanical engineering student with a passion for learning and application. I am looking for opportunities to showcase my skills in manufacturing, design, energy, and maintenance.</p>
+    </div>
+
+    <div class="section">
+        <h2 class="section-title">Experience</h2>
+        <h3>Summer Internship, Duct Castle</h3>
+        <p>October 6, Abu Rawash, Giza (06/2024 - 07/2024)</p>
+        <ul>
+            <li>Identified types of metal sheets used in Egypt and the Middle East.</li>
+            <li>Determined the thickness required for manufacturing air boxes and degrees of galvanization.</li>
+            <li>Learned manufacturing methods and factory management.</li>
+            <li>Familiarized with manufacturing programs and production machines.</li>
+        </ul>
+
+        <h3>Granted to Students, House of Engineers</h3>
+        <p>Online (02/2024 - 04/2024)</p>
+        <ul>
+            <li>Read architectural and mechanical drawings.</li>
+            <li>Learned the responsibilities of architects, civil and mechanical engineers.</li>
+            <li>Learned the basics of MEP.</li>
+        </ul>
+
+        <h3>Summer Internship, The Arab Contractors</h3>
+        <p>Shubra, Cairo (06/2023 - 08/2023)</p>
+        <ul>
+            <li>Learned engine parts and maintenance tools.</li>
+            <li>Worked with machines used in engine repair.</li>
+            <li>Handled hands-on maintenance and repair of engines.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2 class="section-title">Skills</h2>
+        <ul>
+            <li>Maintenance</li>
+            <li>Communication Skills</li>
+            <li>Microsoft Excel, Microsoft Word</li>
+            <li>Time management</li>
+            <li>CAD, CAM Programming</li>
+            <li>SolidWorks, AutoCAD, Cam Duct, Cad MEP</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2 class="section-title">Education</h2>
+        <h3>Mechanical Engineering</h3>
+        <p>Higher Technological Institute, 10th of Ramadan (08/2026)</p>
+        <p>Member of the ASME team, part of student activities.</p>
+    </div>
+</body>
+</html>
